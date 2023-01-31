@@ -23,15 +23,11 @@ class LearningplatformController < ApplicationController
 
     end
 
-    def courseCatalog
+    def course_catalog
 
     end
 
     def testimonials
-
-    end
-
-    def blogs
 
     end
 end
